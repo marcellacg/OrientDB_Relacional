@@ -1,0 +1,4 @@
+model\ProdutoDeLimpeza.class
+model\ProdutoBebidas.class
+model\ProdutoDeHigiene.class
+View\Vendinha.class
